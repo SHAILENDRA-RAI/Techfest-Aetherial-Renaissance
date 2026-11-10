@@ -1,0 +1,19 @@
+TECHFEST AETHERIAL RENAISSANCE — DEMO RECORDING GUIDE
+
+Recommended demo length: 35–50 seconds
+Recording format: MP4, 1080p, landscape or portrait screen recording is acceptable.
+
+1. Open the deployed GitHub Pages URL in Chrome and press F11 for fullscreen.
+2. Hold on the hero for 4–5 seconds so the title, edition, date and celestial artwork are visible.
+3. Scroll to “The Festival” and show the Compete / Learn / Experience cards.
+4. Scroll to Competitions and click the “AI & software” filter, then click “All challenges” to restore all cards.
+5. Scroll through the Workshops list and the festival Experiences grid.
+6. Open one FAQ item to demonstrate the accordion.
+7. Finish at the final CTA and click “Visit official Techfest” only if you want to show the official destination; you do not need to leave your demo recording running on the external site.
+
+Recording tip:
+- Windows: Win + Alt + R (Xbox Game Bar) or use OBS Studio.
+- Move the cursor slowly; avoid rapid scrolling.
+- Do not record personal tabs, bookmarks, notifications or account details.
+
+The page is a static concept website. All calls to action that require official event registration or detailed rules link to the official Techfest website. No backend or sign-in is needed.
